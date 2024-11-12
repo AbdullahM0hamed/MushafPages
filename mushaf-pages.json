@@ -1,0 +1,22 @@
+{
+    "Warsh": {
+        "prefix_url": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/Warsh/",
+        "font": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/fonts/warsh.ttf"
+    },
+    "Qaloon": {
+        "prefix_url": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/Qaloon/",
+        "font": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/fonts/qaloon.ttf"
+    },
+    "Doori": {
+        "prefix_url": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/Doori/",
+        "font": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/fonts/doori.ttf"
+    },
+    "Soosi": {
+        "prefix_url": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/Soosi/",
+        "font": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/fonts/soosi.ttf"
+    },
+    "Shuba": {
+        "prefix_url": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/Shuba",
+        "font": "https://raw.githubusercontent.com/AbdullahM0hamed/MushafPages/refs/heads/master/fonts/shuba.ttf"
+    }
+}
